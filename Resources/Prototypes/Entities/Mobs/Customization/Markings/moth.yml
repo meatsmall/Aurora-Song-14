@@ -2,7 +2,7 @@
 - type: marking
   id: MothAntennasDefault
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] # Aurora Song
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: default
@@ -10,7 +10,7 @@
 - type: marking
   id: MothAntennasCharred
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: charred
@@ -18,7 +18,7 @@
 - type: marking
   id: MothAntennasDbushy
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: dbushy
@@ -26,7 +26,7 @@
 - type: marking
   id: MothAntennasDcurvy
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: dcurvy
@@ -34,7 +34,7 @@
 - type: marking
   id: MothAntennasDfan
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: dfan
@@ -42,7 +42,7 @@
 - type: marking
   id: MothAntennasDpointy
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: dpointy
@@ -50,7 +50,7 @@
 - type: marking
   id: MothAntennasFeathery
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: feathery
@@ -58,7 +58,7 @@
 - type: marking
   id: MothAntennasFirewatch
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: firewatch
@@ -66,7 +66,7 @@
 - type: marking
   id: MothAntennasGray
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: gray
@@ -74,7 +74,7 @@
 - type: marking
   id: MothAntennasJungle
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: jungle
@@ -82,7 +82,7 @@
 - type: marking
   id: MothAntennasMoffra
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: moffra
@@ -90,7 +90,7 @@
 - type: marking
   id: MothAntennasOakworm
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: oakworm
@@ -98,7 +98,7 @@
 - type: marking
   id: MothAntennasPlasmafire
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: plasmafire
@@ -106,7 +106,7 @@
 - type: marking
   id: MothAntennasMaple
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: maple
@@ -114,7 +114,7 @@
 - type: marking
   id: MothAntennasRoyal
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: royal
@@ -122,7 +122,7 @@
 - type: marking
   id: MothAntennasStriped
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: striped
@@ -130,7 +130,7 @@
 - type: marking
   id: MothAntennasWhitefly
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: whitefly
@@ -138,7 +138,7 @@
 - type: marking
   id: MothAntennasWitchwing
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: witchwing
@@ -146,7 +146,7 @@
 - type: marking
   id: MothAntennasUnderwing
   bodyPart: HeadTop
-  groupWhitelist: [Moth]
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_antennas.rsi
     state: underwing_primary
@@ -157,7 +157,7 @@
 - type: marking
   id: MothWingsDefault
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: default
@@ -165,7 +165,7 @@
 - type: marking
   id: MothWingsCharred
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: charred
@@ -173,7 +173,7 @@
 - type: marking
   id: MothWingsDbushy
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: dbushy_primary
@@ -183,7 +183,7 @@
 - type: marking
   id: MothWingsDeathhead
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: deathhead_primary
@@ -193,7 +193,7 @@
 - type: marking
   id: MothWingsFan
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: fan
@@ -201,7 +201,7 @@
 - type: marking
   id: MothWingsDfan
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: dfan
@@ -209,7 +209,7 @@
 - type: marking
   id: MothWingsFeathery
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: feathery
@@ -217,7 +217,7 @@
 - type: marking
   id: MothWingsFirewatch
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: firewatch_primary
@@ -227,7 +227,7 @@
 - type: marking
   id: MothWingsGothic
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: gothic
@@ -235,7 +235,7 @@
 - type: marking
   id: MothWingsJungle
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: jungle
@@ -243,7 +243,7 @@
 - type: marking
   id: MothWingsLadybug
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: ladybug
@@ -251,7 +251,7 @@
 - type: marking
   id: MothWingsMaple
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: maple_primary
@@ -261,7 +261,7 @@
 - type: marking
   id: MothWingsMoffra
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: moffra_primary
@@ -271,7 +271,7 @@
 - type: marking
   id: MothWingsOakworm
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: oakworm
@@ -279,7 +279,7 @@
 - type: marking
   id: MothWingsPlasmafire
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: plasmafire_primary
@@ -289,7 +289,7 @@
 - type: marking
   id: MothWingsPointy
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: pointy
@@ -297,7 +297,7 @@
 - type: marking
   id: MothWingsRoyal
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: royal_primary
@@ -307,7 +307,7 @@
 - type: marking
   id: MothWingsStellar
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: stellar
@@ -315,7 +315,7 @@
 - type: marking
   id: MothWingsStriped
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: striped
@@ -323,7 +323,7 @@
 - type: marking
   id: MothWingsSwirly
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: swirly
@@ -331,7 +331,7 @@
 - type: marking
   id: MothWingsWhitefly
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: whitefly
@@ -339,7 +339,7 @@
 - type: marking
   id: MothWingsWitchwing
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: witchwing
@@ -347,7 +347,7 @@
 - type: marking
   id: MothWingsUnderwing
   bodyPart: Tail
-  groupWhitelist: [Moth, Fairy] #Aurora
+  groupWhitelist: [Moth,Fairy] #Aurora
   sprites:
   - sprite: Mobs/Customization/Moth/moth_wings.rsi
     state: underwing_primary

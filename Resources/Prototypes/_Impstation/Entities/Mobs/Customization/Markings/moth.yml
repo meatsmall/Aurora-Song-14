@@ -188,7 +188,7 @@
 - type: marking
   id: MothHeadTuft
   bodyPart: HeadSide
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: headtuft
@@ -196,7 +196,7 @@
 - type: marking
   id: MothTuftBangs
   bodyPart: HeadSide
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: tuftbangs
@@ -204,7 +204,7 @@
 - type: marking
   id: MothVerticalTuft
   bodyPart: HeadSide
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: verticaltuft
@@ -212,7 +212,7 @@
 - type: marking
   id: MothEmoTuft
   bodyPart: HeadSide
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: emotuft
@@ -220,7 +220,7 @@
 - type: marking
   id: MothTinyTuft
   bodyPart: HeadSide
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: tinytuft
@@ -605,7 +605,7 @@
 - type: marking
   id: MothBeetleHorn1
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   forcedColoring: true
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
@@ -614,7 +614,7 @@
 - type: marking
   id: MothBeetleHorn2
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   forcedColoring: true
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
@@ -623,7 +623,7 @@
 - type: marking
   id: MothGlowAntenna
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: glowantenna
@@ -632,7 +632,7 @@
 - type: marking
   id: AntennaCockroach
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: cockroach
@@ -640,7 +640,7 @@
 - type: marking
   id: AntennaFly
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: fly
@@ -648,7 +648,7 @@
 - type: marking
   id: AntennaHeart
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: heart1
@@ -658,7 +658,7 @@
 - type: marking
   id: AntennaShort
   bodyPart: HeadTop
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: nub
@@ -668,7 +668,7 @@
 - type: marking
   id: LunaWings
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: luna1
@@ -678,7 +678,7 @@
 - type: marking
   id: MothBee
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: bee1
@@ -690,7 +690,7 @@
 - type: marking
   id: MothBeetleTail
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: beetle1
@@ -702,7 +702,7 @@
 - type: marking
   id: MothFirefly
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: firefly2
@@ -710,7 +710,7 @@
 - type: marking
   id: MothFireflyOverlay
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: firefly1
@@ -719,7 +719,7 @@
 - type: marking
   id: MothGlasswing
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: glasswing1
@@ -731,7 +731,7 @@
 - type: marking
   id: MothRhinoBeetle
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: rhinobeetle1
@@ -743,7 +743,7 @@
 - type: marking
   id: MothSnoth
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: snoth1
@@ -753,7 +753,7 @@
 - type: marking
   id: MothTrueButterfly
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: truebutterfly1
@@ -765,7 +765,7 @@
 - type: marking
   id: WingsBackstabbed
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: backstabbed
@@ -773,7 +773,7 @@
 - type: marking
   id: WingsDragonfly
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: dragonfly1
@@ -785,7 +785,7 @@
 - type: marking
   id: WingsFly
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: fly1
@@ -797,7 +797,7 @@
 - type: marking
   id: WingsLanternfly
   bodyPart: Tail
-  groupWhitelist: [ Moth ]
+  groupWhitelist: [ Moth,Fairy ] #Aurora
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: lanternfly

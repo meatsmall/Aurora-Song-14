@@ -20,6 +20,7 @@
     enum.HumanoidVisualLayers.HeadTop:
       limit: 1
       required: false
+      default: [ MothAntennasDefault ]
     enum.HumanoidVisualLayers.UndergarmentTop:
       limit: 1
       required: false
